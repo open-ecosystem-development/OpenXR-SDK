@@ -38,7 +38,7 @@ Windows 10 PC (Python, Batch Script), Huawei VR Glass, VR Glass compatible & roo
 
 4. Run/test your VR apps, games on Huawei VR Glass and rooted Huawei phones.
 5. After the tests, connect Huawei phones to the PC using USB-C cable. Make sure USB mode is set to Transfer Files and Developer mode is enabled on the phone.
-6. Open Command Prompt on PC, cd to HVR_logger_Harmony directory, run Getlog_HarmonyOS.bat script.
+6. Open Command Prompt on PC, cd to HVR_logger_Harmony directory, run ```Getlog_HarmonyOS.bat``` script.
 
     ```
     C:\Users\xxxxx\Downloads\HVR_logger_Harmony>Getlog_HarmonyOS.bat
@@ -130,7 +130,7 @@ Windows 10 PC (Python, Batch Script), Huawei VR Glass, VR Glass compatible & roo
 		         C:\Users\xxxxx\Downloads\HVR_logger_Harmony\out\2021-12-23_22-26-10.txt
 		Press any key to continue . . .
     ```
-7. The logs will be available in out folder
+7. The logs will be available in ```out``` folder
    
    ![](https://raw.githubusercontent.com/hms-ecosystem/OpenXR-SDK/main/lib/HVR_logger_Harmony/screenshots/out.png)
 

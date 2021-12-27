@@ -22,19 +22,19 @@ Windows 10 PC (Python, Batch Script), Huawei VR Glass, VR Glass compatible & roo
     First day of week: Monday
     ```
 
-    ![](https://raw.githubusercontent.com/hms-ecosystem/OpenXR-SDK/blob/main/lib/HVR_logger_Harmony/region.png)
+    ![](https://raw.githubusercontent.com/hms-ecosystem/OpenXR-SDK/main/lib/HVR_logger_Harmony/screenshots/region.png)
 
     Steps to configure your PC date and time format:
 
-    ![](https://raw.githubusercontent.com/hms-ecosystem/OpenXR-SDK/blob/main/lib/HVR_logger_Harmony/date_time.png)
+    ![](https://raw.githubusercontent.com/hms-ecosystem/OpenXR-SDK/main/lib/HVR_logger_Harmony/screenshots/date_time.png)
 
-    ![](https://raw.githubusercontent.com/hms-ecosystem/OpenXR-SDK/blob/main/lib/HVR_logger_Harmony/date_time_settings.png)
+    ![](https://raw.githubusercontent.com/hms-ecosystem/OpenXR-SDK/main/lib/HVR_logger_Harmony/screenshots/date_time_settings.png)
 
-    ![](https://raw.githubusercontent.com/hms-ecosystem/OpenXR-SDK/blob/main/lib/HVR_logger_Harmony/region_formats.png)
+    ![](https://raw.githubusercontent.com/hms-ecosystem/OpenXR-SDK/main/lib/HVR_logger_Harmony/screenshots/region_formats.png)
 
-    ![](https://raw.githubusercontent.com/hms-ecosystem/OpenXR-SDK/blob/main/lib/HVR_logger_Harmony/customize_format_date.png)
+    ![](https://raw.githubusercontent.com/hms-ecosystem/OpenXR-SDK/main/lib/HVR_logger_Harmony/screenshots/customize_format_date.png)
 
-    ![](https://raw.githubusercontent.com/hms-ecosystem/OpenXR-SDK/blob/main/lib/HVR_logger_Harmony/customize_format_time.png)
+    ![](https://raw.githubusercontent.com/hms-ecosystem/OpenXR-SDK/main/lib/HVR_logger_Harmony/screenshots/customize_format_time.png)
 
 4. Run/test your VR apps, games on Huawei VR Glass and rooted Huawei phones.
 5. After the tests, connect Huawei phones to the PC using USB-C cable. Make sure USB mode is set to Transfer Files and Developer mode is enabled on the phone.
@@ -132,7 +132,7 @@ Windows 10 PC (Python, Batch Script), Huawei VR Glass, VR Glass compatible & roo
     ```
 7. The logs will be available in out folder
    
-   ![](https://raw.githubusercontent.com/hms-ecosystem/OpenXR-SDK/blob/main/lib/HVR_logger_Harmony/out.png)
+   ![](https://raw.githubusercontent.com/hms-ecosystem/OpenXR-SDK/main/lib/HVR_logger_Harmony/screenshots/out.png)
 
 ### Notes: ###
 1.	Huawei VR Glass will only with China Huawei device models such as NOH-AN01 (Mate 40 Pro), etc.

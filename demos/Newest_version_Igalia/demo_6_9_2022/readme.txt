@@ -1,0 +1,1 @@
+Igalia packaged 6dof/3dof versions for both overseas (world) and china (cn) versions. Igalia tagged them as 0.9.7 although that does not imply that Igalia will  release that, it's just to give it a name so we could refer to them while testing.
